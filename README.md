@@ -15,7 +15,7 @@ Bu proje, tıbbi raporlar (PDF, TXT) ve tıbbi görüntüler (JPG, PNG) için ya
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone <https://github.com/burakcnaksy0/AI-Destekli-Geli-mi-T-bbi-Analiz-Sistemi>
+git clone <https://github.com/burakcnaksy0/AI-Powered-Advanced-Medical-Analysis-System>
 cd agent
 ```
 
