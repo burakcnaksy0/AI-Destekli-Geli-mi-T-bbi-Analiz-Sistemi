@@ -1,0 +1,7 @@
+gradio
+openai>=1.0.0
+transformers
+torch
+Pillow
+pypdf
+python-dotenv
