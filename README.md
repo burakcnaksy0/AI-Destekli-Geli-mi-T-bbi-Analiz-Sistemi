@@ -15,7 +15,7 @@ Bu proje, tıbbi raporlar (PDF, TXT) ve tıbbi görüntüler (JPG, PNG) için ya
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone <repo-url>
+git clone <https://github.com/burakcnaksy0/AI-Destekli-Geli-mi-T-bbi-Analiz-Sistemi>
 cd agent
 ```
 
@@ -74,6 +74,3 @@ images/               # Örnek tıbbi görüntüler
 
 ## Katkı ve Geliştirme
 Pull request ve issue açarak katkıda bulunabilirsiniz.
-
-## Lisans
-MIT
